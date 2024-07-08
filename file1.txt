@@ -1,1 +1,1 @@
-file1_txt
+*file1_txt
